@@ -1,0 +1,17 @@
+# ---- Python (backend) ----
+backend/.venv/
+**/__pycache__/
+*.pyc
+*.db
+backend/.pytest_cache/
+backend/.hypothesis/
+
+# ---- Node (frontend) ----
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# ---- OS / Editor ----
+.DS_Store
+*.log
+*.local
